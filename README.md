@@ -1,2 +1,2 @@
 # AutomationTestingProject
-This is ymy first automation project
+This is my first automation testing project
